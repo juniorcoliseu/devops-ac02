@@ -1,0 +1,2 @@
+Será necessaria uma configuração minima para que o programa seja executado corretamente e em sua melhor qualidade grafica, isso possibilitara que o usuario desfrute do melhor software do ramo em sua capacidade total diminuindo o tempo de trabalho em até 30%.
+Congiguração recomendada Intel I5, 4gb memoria Ram, Hard Disk SSD250 gd, Placa de Video de 512mg 64 bits, Conexão banda larga 1mega, Resolução 1366 x768, Windows 7 ou superior, pacote office.
