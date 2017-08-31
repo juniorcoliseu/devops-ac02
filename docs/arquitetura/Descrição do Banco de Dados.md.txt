@@ -1,0 +1,2 @@
+O banco de dados vai ser criado usando a linguagem SQL e o software SQL Server,
+O banco de dados vai precisar de uma grande base de informações contedo tabelas requisitadas pelo usuario.
